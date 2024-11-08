@@ -1,1 +1,1 @@
-Site Bolos da Leila com rotas usando express.
+Projeto web para um cliente final, utilizando frameworks JavaScript e banco de dados.
